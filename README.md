@@ -1,2 +1,2 @@
-# Collabra-Jump
-Project Submission and updates for Jump program
+# Seating Program
+A revolutionary old world way to reserve your seat.
